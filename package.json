@@ -1,0 +1,16 @@
+{
+  "name": "stock-analysis-platform",
+  "version": "1.0.0",
+  "description": "株式AIデータ整理システム - 投資学習専門 Landing Page",
+  "main": "index.html",
+  "scripts": {},
+  "keywords": [
+    "ai",
+    "stock",
+    "analysis",
+    "japan",
+    "landing-page"
+  ],
+  "author": "Stock Analysis Platform Team",
+  "license": "MIT"
+}
